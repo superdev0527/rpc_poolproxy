@@ -1,0 +1,3 @@
+cmd/*/tmp/*
+.vscode/launch.json
+pkg/*/tmp/*
